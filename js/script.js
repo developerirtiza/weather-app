@@ -68,3 +68,8 @@ searchInput.addEventListener("keydown", (e) => {
     searchWeather();
   }
 });
+
+const year = document.getElementById("year");
+const thisYear = new Date().getFullYear();
+year.setAttribute("datetime", thisYear);
+year.textContent = thisYear;
