@@ -61,8 +61,12 @@ WEATHER APP/
 
 This project is licensed under the [MIT License](https://opensource.org/license/MIT)
 
-## 🙋‍♂️ Author
+## ✍️ Author
 
 Syed Muhammad Irtiza Haider
+
+Front-end Developer
+
+Email: developerirtiza@gmail.com
 
 © 2025 All rights reserved
